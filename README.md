@@ -1,2 +1,3 @@
-# delivery-product-analysis
-A product analysis identifying feature opportunities from inefficiencies in a food delivery service.
+# delivery-analysis
+
+A product analytics project which examines inefficiencies in delivery services using a sample of data. 
